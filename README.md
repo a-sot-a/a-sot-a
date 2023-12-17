@@ -1,5 +1,3 @@
-# sdfsdfsdf
-
 asota = {
 
     'name': 'Alexey',
